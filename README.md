@@ -1,0 +1,2 @@
+# Major-Project-Automated-vs-Authentic-Unveiling-AI-Authorship-with-Deep-Learning-Models-
+This research delves into developing a deep learning model that accurately distinguishes between human and machine-generated texts and addresses the challenges posed by the proliferation of automated text generation systems. A dataset comprising 2,00,000 labelled instances has been used to train/test and predict achieving a commendable accuracy.
